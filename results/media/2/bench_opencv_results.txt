@@ -9,7 +9,7 @@
                         "clientSize": 1,
                         "delaySize": 500
                     },
-                    "TimeResult": 2337.04017
+                    "TimeResult": 2101.31463
                 },
                 {
                     "settings": {
@@ -17,7 +17,7 @@
                         "clientSize": 1,
                         "delaySize": 1000
                     },
-                    "TimeResult": 2302.24849
+                    "TimeResult": 2015.24709
                 },
                 {
                     "settings": {
@@ -25,7 +25,7 @@
                         "clientSize": 1,
                         "delaySize": 1500
                     },
-                    "TimeResult": 2329.0205799999994
+                    "TimeResult": 2030.3597700000003
                 },
                 {
                     "settings": {
@@ -33,7 +33,7 @@
                         "clientSize": 1,
                         "delaySize": 2000
                     },
-                    "TimeResult": 2298.3072399999996
+                    "TimeResult": 2016.1753800000001
                 },
                 {
                     "settings": {
@@ -41,7 +41,7 @@
                         "clientSize": 1,
                         "delaySize": 2500
                     },
-                    "TimeResult": 2348.0346600000003
+                    "TimeResult": 2036.9133299999999
                 },
                 {
                     "settings": {
@@ -49,7 +49,7 @@
                         "clientSize": 1,
                         "delaySize": 3000
                     },
-                    "TimeResult": 2268.02527
+                    "TimeResult": 1989.3647700000001
                 },
                 {
                     "settings": {
@@ -57,7 +57,7 @@
                         "clientSize": 1,
                         "delaySize": 3500
                     },
-                    "TimeResult": 2263.58962
+                    "TimeResult": 1981.39152
                 },
                 {
                     "settings": {
@@ -65,7 +65,7 @@
                         "clientSize": 1,
                         "delaySize": 4000
                     },
-                    "TimeResult": 2289.7020899999998
+                    "TimeResult": 1980.84228
                 },
                 {
                     "settings": {
@@ -73,7 +73,7 @@
                         "clientSize": 1,
                         "delaySize": 4500
                     },
-                    "TimeResult": 2254.11757
+                    "TimeResult": 1974.38979
                 },
                 {
                     "settings": {
@@ -81,7 +81,7 @@
                         "clientSize": 1,
                         "delaySize": 5000
                     },
-                    "TimeResult": 2283.53342
+                    "TimeResult": 1986.4081600000002
                 }
             ],
             [
@@ -91,7 +91,7 @@
                         "clientSize": 2,
                         "delaySize": 500
                     },
-                    "TimeResult": 6905.55568
+                    "TimeResult": 6096.616930000001
                 },
                 {
                     "settings": {
@@ -99,7 +99,7 @@
                         "clientSize": 2,
                         "delaySize": 1000
                     },
-                    "TimeResult": 5703.29801
+                    "TimeResult": 6120.92381
                 },
                 {
                     "settings": {
@@ -107,7 +107,7 @@
                         "clientSize": 2,
                         "delaySize": 1500
                     },
-                    "TimeResult": 5165.3748000000005
+                    "TimeResult": 6029.2620400000014
                 },
                 {
                     "settings": {
@@ -115,7 +115,7 @@
                         "clientSize": 2,
                         "delaySize": 2000
                     },
-                    "TimeResult": 5948.65079
+                    "TimeResult": 5419.5518800000009
                 },
                 {
                     "settings": {
@@ -123,7 +123,7 @@
                         "clientSize": 2,
                         "delaySize": 2500
                     },
-                    "TimeResult": 6590.4097500000007
+                    "TimeResult": 6203.799210000001
                 },
                 {
                     "settings": {
@@ -131,7 +131,7 @@
                         "clientSize": 2,
                         "delaySize": 3000
                     },
-                    "TimeResult": 6102.6416000000008
+                    "TimeResult": 6233.4211000000005
                 },
                 {
                     "settings": {
@@ -139,7 +139,7 @@
                         "clientSize": 2,
                         "delaySize": 3500
                     },
-                    "TimeResult": 8132.9262999999992
+                    "TimeResult": 6736.58222
                 },
                 {
                     "settings": {
@@ -147,7 +147,7 @@
                         "clientSize": 2,
                         "delaySize": 4000
                     },
-                    "TimeResult": 7381.5674
+                    "TimeResult": 7591.17195
                 },
                 {
                     "settings": {
@@ -155,7 +155,7 @@
                         "clientSize": 2,
                         "delaySize": 4500
                     },
-                    "TimeResult": 7977.7308700000012
+                    "TimeResult": 7019.0212599999995
                 },
                 {
                     "settings": {
@@ -163,7 +163,7 @@
                         "clientSize": 2,
                         "delaySize": 5000
                     },
-                    "TimeResult": 7968.49005
+                    "TimeResult": 6698.8894999999993
                 }
             ],
             [
@@ -173,7 +173,7 @@
                         "clientSize": 3,
                         "delaySize": 500
                     },
-                    "TimeResult": 13015.528100000001
+                    "TimeResult": 9818.76043
                 },
                 {
                     "settings": {
@@ -181,7 +181,7 @@
                         "clientSize": 3,
                         "delaySize": 1000
                     },
-                    "TimeResult": 12378.504350000001
+                    "TimeResult": 11394.47915
                 },
                 {
                     "settings": {
@@ -189,7 +189,7 @@
                         "clientSize": 3,
                         "delaySize": 1500
                     },
-                    "TimeResult": 13328.510620000001
+                    "TimeResult": 14514.509339999999
                 },
                 {
                     "settings": {
@@ -197,7 +197,7 @@
                         "clientSize": 3,
                         "delaySize": 2000
                     },
-                    "TimeResult": 13634.67697
+                    "TimeResult": 12381.367330000001
                 },
                 {
                     "settings": {
@@ -205,7 +205,7 @@
                         "clientSize": 3,
                         "delaySize": 2500
                     },
-                    "TimeResult": 14442.346580000001
+                    "TimeResult": 13703.173350000001
                 },
                 {
                     "settings": {
@@ -213,7 +213,7 @@
                         "clientSize": 3,
                         "delaySize": 3000
                     },
-                    "TimeResult": 16089.475800000002
+                    "TimeResult": 14312.240930000002
                 },
                 {
                     "settings": {
@@ -221,7 +221,7 @@
                         "clientSize": 3,
                         "delaySize": 3500
                     },
-                    "TimeResult": 16651.38797
+                    "TimeResult": 14722.92244
                 },
                 {
                     "settings": {
@@ -229,7 +229,7 @@
                         "clientSize": 3,
                         "delaySize": 4000
                     },
-                    "TimeResult": 15252.186080000001
+                    "TimeResult": 16199.79434
                 },
                 {
                     "settings": {
@@ -237,7 +237,7 @@
                         "clientSize": 3,
                         "delaySize": 4500
                     },
-                    "TimeResult": 16030.873410000002
+                    "TimeResult": 16469.983119999997
                 },
                 {
                     "settings": {
@@ -245,7 +245,7 @@
                         "clientSize": 3,
                         "delaySize": 5000
                     },
-                    "TimeResult": 17798.64913
+                    "TimeResult": 15295.85813
                 }
             ],
             [
@@ -255,7 +255,7 @@
                         "clientSize": 4,
                         "delaySize": 500
                     },
-                    "TimeResult": 25367.276810000003
+                    "TimeResult": 24465.63998
                 },
                 {
                     "settings": {
@@ -263,7 +263,7 @@
                         "clientSize": 4,
                         "delaySize": 1000
                     },
-                    "TimeResult": 27591.757250000002
+                    "TimeResult": 24342.17376
                 },
                 {
                     "settings": {
@@ -271,7 +271,7 @@
                         "clientSize": 4,
                         "delaySize": 1500
                     },
-                    "TimeResult": 26171.847630000004
+                    "TimeResult": 24824.29736
                 },
                 {
                     "settings": {
@@ -279,7 +279,7 @@
                         "clientSize": 4,
                         "delaySize": 2000
                     },
-                    "TimeResult": 28182.46287
+                    "TimeResult": 23396.07142
                 },
                 {
                     "settings": {
@@ -287,7 +287,7 @@
                         "clientSize": 4,
                         "delaySize": 2500
                     },
-                    "TimeResult": 27364.99088
+                    "TimeResult": 29246.036030000003
                 },
                 {
                     "settings": {
@@ -295,7 +295,7 @@
                         "clientSize": 4,
                         "delaySize": 3000
                     },
-                    "TimeResult": 28227.02117
+                    "TimeResult": 26114.01509
                 },
                 {
                     "settings": {
@@ -303,7 +303,7 @@
                         "clientSize": 4,
                         "delaySize": 3500
                     },
-                    "TimeResult": 28179.16536
+                    "TimeResult": 26223.051050000002
                 },
                 {
                     "settings": {
@@ -311,7 +311,7 @@
                         "clientSize": 4,
                         "delaySize": 4000
                     },
-                    "TimeResult": 28363.456800000004
+                    "TimeResult": 26571.3165
                 },
                 {
                     "settings": {
@@ -319,7 +319,7 @@
                         "clientSize": 4,
                         "delaySize": 4500
                     },
-                    "TimeResult": 29873.369489999997
+                    "TimeResult": 27249.92563
                 },
                 {
                     "settings": {
@@ -327,7 +327,7 @@
                         "clientSize": 4,
                         "delaySize": 5000
                     },
-                    "TimeResult": 27742.715999999997
+                    "TimeResult": 26866.43991
                 }
             ],
             [
@@ -337,7 +337,7 @@
                         "clientSize": 5,
                         "delaySize": 500
                     },
-                    "TimeResult": 41161.75913
+                    "TimeResult": 40463.293180000008
                 },
                 {
                     "settings": {
@@ -345,7 +345,7 @@
                         "clientSize": 5,
                         "delaySize": 1000
                     },
-                    "TimeResult": 35158.77323
+                    "TimeResult": 44372.044400000006
                 },
                 {
                     "settings": {
@@ -353,7 +353,7 @@
                         "clientSize": 5,
                         "delaySize": 1500
                     },
-                    "TimeResult": 37155.41698
+                    "TimeResult": 38424.16811
                 },
                 {
                     "settings": {
@@ -361,7 +361,7 @@
                         "clientSize": 5,
                         "delaySize": 2000
                     },
-                    "TimeResult": 40545.41146
+                    "TimeResult": 44337.36633
                 },
                 {
                     "settings": {
@@ -369,7 +369,7 @@
                         "clientSize": 5,
                         "delaySize": 2500
                     },
-                    "TimeResult": 47746.749810000008
+                    "TimeResult": 47005.064030000009
                 },
                 {
                     "settings": {
@@ -377,7 +377,7 @@
                         "clientSize": 5,
                         "delaySize": 3000
                     },
-                    "TimeResult": 43935.89352
+                    "TimeResult": 47338.399970000006
                 },
                 {
                     "settings": {
@@ -385,7 +385,7 @@
                         "clientSize": 5,
                         "delaySize": 3500
                     },
-                    "TimeResult": 43194.500730000007
+                    "TimeResult": 47525.60469
                 },
                 {
                     "settings": {
@@ -393,7 +393,7 @@
                         "clientSize": 5,
                         "delaySize": 4000
                     },
-                    "TimeResult": 46899.940960000007
+                    "TimeResult": 44247.216130000008
                 },
                 {
                     "settings": {
@@ -401,7 +401,7 @@
                         "clientSize": 5,
                         "delaySize": 4500
                     },
-                    "TimeResult": 43538.74446
+                    "TimeResult": 42853.89655
                 },
                 {
                     "settings": {
@@ -409,7 +409,7 @@
                         "clientSize": 5,
                         "delaySize": 5000
                     },
-                    "TimeResult": 47251.3706
+                    "TimeResult": 42504.901000000005
                 }
             ],
             [
@@ -419,7 +419,7 @@
                         "clientSize": 6,
                         "delaySize": 500
                     },
-                    "TimeResult": 60486.657300000006
+                    "TimeResult": 53273.646590000004
                 },
                 {
                     "settings": {
@@ -427,7 +427,7 @@
                         "clientSize": 6,
                         "delaySize": 1000
                     },
-                    "TimeResult": 64707.83830000001
+                    "TimeResult": 60159.38114
                 },
                 {
                     "settings": {
@@ -435,7 +435,7 @@
                         "clientSize": 6,
                         "delaySize": 1500
                     },
-                    "TimeResult": 63577.074160000011
+                    "TimeResult": 46963.903730000005
                 },
                 {
                     "settings": {
@@ -443,7 +443,7 @@
                         "clientSize": 6,
                         "delaySize": 2000
                     },
-                    "TimeResult": 66290.269789999991
+                    "TimeResult": 57149.01087
                 },
                 {
                     "settings": {
@@ -451,7 +451,7 @@
                         "clientSize": 6,
                         "delaySize": 2500
                     },
-                    "TimeResult": 64448.92201
+                    "TimeResult": 62184.86591
                 },
                 {
                     "settings": {
@@ -459,7 +459,7 @@
                         "clientSize": 6,
                         "delaySize": 3000
                     },
-                    "TimeResult": 65061.449649999995
+                    "TimeResult": 57149.8072
                 },
                 {
                     "settings": {
@@ -467,7 +467,7 @@
                         "clientSize": 6,
                         "delaySize": 3500
                     },
-                    "TimeResult": 62647.986999999994
+                    "TimeResult": 63657.53254
                 },
                 {
                     "settings": {
@@ -475,7 +475,7 @@
                         "clientSize": 6,
                         "delaySize": 4000
                     },
-                    "TimeResult": 67121.176690000008
+                    "TimeResult": 66206.57455
                 },
                 {
                     "settings": {
@@ -483,7 +483,7 @@
                         "clientSize": 6,
                         "delaySize": 4500
                     },
-                    "TimeResult": 69619.377990000008
+                    "TimeResult": 62098.176479999995
                 },
                 {
                     "settings": {
@@ -491,7 +491,7 @@
                         "clientSize": 6,
                         "delaySize": 5000
                     },
-                    "TimeResult": 64619.775100000006
+                    "TimeResult": 66738.37392
                 }
             ],
             [
@@ -501,7 +501,7 @@
                         "clientSize": 7,
                         "delaySize": 500
                     },
-                    "TimeResult": 82017.1741
+                    "TimeResult": 78399.619950000008
                 },
                 {
                     "settings": {
@@ -509,7 +509,7 @@
                         "clientSize": 7,
                         "delaySize": 1000
                     },
-                    "TimeResult": 84946.05796
+                    "TimeResult": 84950.41592
                 },
                 {
                     "settings": {
@@ -517,7 +517,7 @@
                         "clientSize": 7,
                         "delaySize": 1500
                     },
-                    "TimeResult": 82016.71964000001
+                    "TimeResult": 84376.774750000011
                 },
                 {
                     "settings": {
@@ -525,7 +525,7 @@
                         "clientSize": 7,
                         "delaySize": 2000
                     },
-                    "TimeResult": 89000.80671
+                    "TimeResult": 81868.04987
                 },
                 {
                     "settings": {
@@ -533,7 +533,7 @@
                         "clientSize": 7,
                         "delaySize": 2500
                     },
-                    "TimeResult": 88909.687610000008
+                    "TimeResult": 87257.42439
                 },
                 {
                     "settings": {
@@ -541,7 +541,7 @@
                         "clientSize": 7,
                         "delaySize": 3000
                     },
-                    "TimeResult": 88066.92368
+                    "TimeResult": 84913.05627
                 },
                 {
                     "settings": {
@@ -549,7 +549,7 @@
                         "clientSize": 7,
                         "delaySize": 3500
                     },
-                    "TimeResult": 86887.47395
+                    "TimeResult": 88094.685700000016
                 },
                 {
                     "settings": {
@@ -557,7 +557,7 @@
                         "clientSize": 7,
                         "delaySize": 4000
                     },
-                    "TimeResult": 89809.140480000016
+                    "TimeResult": 95532.15767
                 },
                 {
                     "settings": {
@@ -565,7 +565,7 @@
                         "clientSize": 7,
                         "delaySize": 4500
                     },
-                    "TimeResult": 89817.05969
+                    "TimeResult": 87483.98135
                 },
                 {
                     "settings": {
@@ -573,7 +573,7 @@
                         "clientSize": 7,
                         "delaySize": 5000
                     },
-                    "TimeResult": 90795.06328
+                    "TimeResult": 87196.005840000013
                 }
             ],
             [
@@ -583,7 +583,7 @@
                         "clientSize": 8,
                         "delaySize": 500
                     },
-                    "TimeResult": 99661.261070000008
+                    "TimeResult": 114977.00367
                 },
                 {
                     "settings": {
@@ -591,7 +591,7 @@
                         "clientSize": 8,
                         "delaySize": 1000
                     },
-                    "TimeResult": 112941.99038
+                    "TimeResult": 109397.27888999999
                 },
                 {
                     "settings": {
@@ -599,7 +599,7 @@
                         "clientSize": 8,
                         "delaySize": 1500
                     },
-                    "TimeResult": 94718.31942
+                    "TimeResult": 103339.33355
                 },
                 {
                     "settings": {
@@ -607,7 +607,7 @@
                         "clientSize": 8,
                         "delaySize": 2000
                     },
-                    "TimeResult": 114410.25171000001
+                    "TimeResult": 111593.07158000002
                 },
                 {
                     "settings": {
@@ -615,7 +615,7 @@
                         "clientSize": 8,
                         "delaySize": 2500
                     },
-                    "TimeResult": 114582.65781
+                    "TimeResult": 110466.2617
                 },
                 {
                     "settings": {
@@ -623,7 +623,7 @@
                         "clientSize": 8,
                         "delaySize": 3000
                     },
-                    "TimeResult": 124100.97652
+                    "TimeResult": 121990.58257000001
                 },
                 {
                     "settings": {
@@ -631,7 +631,7 @@
                         "clientSize": 8,
                         "delaySize": 3500
                     },
-                    "TimeResult": 119737.30829000002
+                    "TimeResult": 111554.42281
                 },
                 {
                     "settings": {
@@ -639,7 +639,7 @@
                         "clientSize": 8,
                         "delaySize": 4000
                     },
-                    "TimeResult": 122755.98847000001
+                    "TimeResult": 121500.89134000003
                 },
                 {
                     "settings": {
@@ -647,7 +647,7 @@
                         "clientSize": 8,
                         "delaySize": 4500
                     },
-                    "TimeResult": 107220.60901999999
+                    "TimeResult": 114227.00034
                 },
                 {
                     "settings": {
@@ -655,7 +655,7 @@
                         "clientSize": 8,
                         "delaySize": 5000
                     },
-                    "TimeResult": 121630.53187
+                    "TimeResult": 120977.91239
                 }
             ],
             [
@@ -665,7 +665,7 @@
                         "clientSize": 9,
                         "delaySize": 500
                     },
-                    "TimeResult": 144458.97763
+                    "TimeResult": 144816.8654
                 },
                 {
                     "settings": {
@@ -673,7 +673,7 @@
                         "clientSize": 9,
                         "delaySize": 1000
                     },
-                    "TimeResult": 151080.48846999998
+                    "TimeResult": 157805.58154
                 },
                 {
                     "settings": {
@@ -681,7 +681,7 @@
                         "clientSize": 9,
                         "delaySize": 1500
                     },
-                    "TimeResult": 151531.69809
+                    "TimeResult": 149479.6397
                 },
                 {
                     "settings": {
@@ -689,7 +689,7 @@
                         "clientSize": 9,
                         "delaySize": 2000
                     },
-                    "TimeResult": 150111.3941
+                    "TimeResult": 151156.06751000002
                 },
                 {
                     "settings": {
@@ -697,7 +697,7 @@
                         "clientSize": 9,
                         "delaySize": 2500
                     },
-                    "TimeResult": 146237.39664999998
+                    "TimeResult": 138724.89914000002
                 },
                 {
                     "settings": {
@@ -705,7 +705,7 @@
                         "clientSize": 9,
                         "delaySize": 3000
                     },
-                    "TimeResult": 146431.43071000002
+                    "TimeResult": 143157.49463000003
                 },
                 {
                     "settings": {
@@ -713,7 +713,7 @@
                         "clientSize": 9,
                         "delaySize": 3500
                     },
-                    "TimeResult": 145519.85758
+                    "TimeResult": 133158.9158
                 },
                 {
                     "settings": {
@@ -721,7 +721,7 @@
                         "clientSize": 9,
                         "delaySize": 4000
                     },
-                    "TimeResult": 154225.42438
+                    "TimeResult": 149778.60858000003
                 },
                 {
                     "settings": {
@@ -729,7 +729,7 @@
                         "clientSize": 9,
                         "delaySize": 4500
                     },
-                    "TimeResult": 148605.54564
+                    "TimeResult": 145780.32568
                 },
                 {
                     "settings": {
@@ -737,7 +737,7 @@
                         "clientSize": 9,
                         "delaySize": 5000
                     },
-                    "TimeResult": 150130.27178
+                    "TimeResult": 146021.18934
                 }
             ],
             [
@@ -747,7 +747,7 @@
                         "clientSize": 10,
                         "delaySize": 500
                     },
-                    "TimeResult": 186900.51689
+                    "TimeResult": 186486.81936000005
                 },
                 {
                     "settings": {
@@ -755,7 +755,7 @@
                         "clientSize": 10,
                         "delaySize": 1000
                     },
-                    "TimeResult": 180274.3627
+                    "TimeResult": 172750.4635
                 },
                 {
                     "settings": {
@@ -763,7 +763,7 @@
                         "clientSize": 10,
                         "delaySize": 1500
                     },
-                    "TimeResult": 167419.56639000002
+                    "TimeResult": 186524.54365000004
                 },
                 {
                     "settings": {
@@ -771,7 +771,7 @@
                         "clientSize": 10,
                         "delaySize": 2000
                     },
-                    "TimeResult": 173388.33671
+                    "TimeResult": 169968.10055000003
                 },
                 {
                     "settings": {
@@ -779,7 +779,7 @@
                         "clientSize": 10,
                         "delaySize": 2500
                     },
-                    "TimeResult": 177210.44916
+                    "TimeResult": 180185.02282
                 },
                 {
                     "settings": {
@@ -787,7 +787,7 @@
                         "clientSize": 10,
                         "delaySize": 3000
                     },
-                    "TimeResult": 193862.99990999998
+                    "TimeResult": 174731.2514
                 },
                 {
                     "settings": {
@@ -795,7 +795,7 @@
                         "clientSize": 10,
                         "delaySize": 3500
                     },
-                    "TimeResult": 180447.84352000002
+                    "TimeResult": 186845.37146000002
                 },
                 {
                     "settings": {
@@ -803,7 +803,7 @@
                         "clientSize": 10,
                         "delaySize": 4000
                     },
-                    "TimeResult": 178339.99989000004
+                    "TimeResult": 191593.4995
                 },
                 {
                     "settings": {
@@ -811,7 +811,7 @@
                         "clientSize": 10,
                         "delaySize": 4500
                     },
-                    "TimeResult": 186411.59055000002
+                    "TimeResult": 181372.21494
                 },
                 {
                     "settings": {
@@ -819,7 +819,7 @@
                         "clientSize": 10,
                         "delaySize": 5000
                     },
-                    "TimeResult": 185549.78905999998
+                    "TimeResult": 189308.08990999998
                 }
             ]
         ],

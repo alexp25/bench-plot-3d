@@ -8,28 +8,32 @@ import json
 
 mode = "test"
 mode = "mp"
-mode = "opencv"
-folder_index = 2
+# mode = "opencv"
+folder_index = 1
 headers = None
 interpolate = False
 save_plot_flag = True
+result_scale_seconds = False
 
 if mode == "mp":
     folder = "./results/mp/" + str(folder_index)
     file = "bench_mp_results.txt"
     output_img_3d = folder + "/" + "bench_mp_3d.png"
     output_img_cmap = folder + "/" + "bench_mp_cmap.png"
+    result_scale_seconds = True
 elif mode == "opencv":
     folder = "./results/media/" + str(folder_index)
     file = "bench_opencv_results.txt"
     output_img_3d = folder + "/" + "bench_opencv_3d.png"
     output_img_cmap = folder + "/" + "bench_opencv_cmap.png"
+    result_scale_seconds = True
 else:
     folder = "."
     file = "test_results.txt"
     output_img_3d = folder + "/" + "bench_test_3d.png"
     output_img_cmap = folder + "/" + "bench_test_cmap.png"
 
+print(folder + "/" + file)
 
 with open(folder + "/" + file, 'r') as csvfile:
     data1 = json.load(csvfile)
@@ -95,6 +99,8 @@ def load_data_3d(data, interpolate):
     y_all = np.fliplr(y_all)
     # z_all = np.fliplr(z_all)
 
+    if result_scale_seconds:
+        z_all = z_all / 1000
     # if interpolate:
     #     X = get_interpolated_array(X)
     #     Y = get_interpolated_array(Y)
@@ -114,15 +120,36 @@ def plot3d(X, Y, Z, interpolate):
     fig = plt.figure()
     ax = fig.gca(projection='3d')
 
+    Y = np.fliplr(Y)
     surf = ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap='viridis', linewidth=0, antialiased=False)
     # ax.set_zlim(-1.01, 1.01)
     fig.colorbar(surf, shrink=0.5, aspect=5)
 
+    ax.set_ylabel('request delay (ms)')
+    ax.set_xlabel('number of clients')
+    if result_scale_seconds:
+        ax.set_zlabel('response time (s)')
+    else:
+        ax.set_zlabel('response time (ms)')
+
+    # plt.axis('off')
     # Set rotation angle
     ax.view_init(azim=-140, elev=32)
 
+    # ax.view_init(azim=180, elev=90)
+
+    # ax.axes.xaxis.set_ticks([])
+    # ax.axes.xaxis.set_visible(False)
+    # ax.axes.yaxis.set_ticks([])
+    # ax.axes.zaxis.set_ticks([])
+
+
+    # plt.gca().axes.get_yaxis().set_visible(False)
+
     save_plot(plt, output_img_3d)
-    plt.show()
+    # plt.show()
+
+    return plt
 
 def save_plot(plt, pname):
     global save_plot_flag
@@ -132,12 +159,17 @@ def save_plot(plt, pname):
 
 def plot_cmap(X, Y, Z, interpolate):
     # not showing correctly
-
     # ax = plt.imshow(Z, cmap='hot')
     fig, ax = plt.subplots()
-    im = ax.imshow(Z, cmap='viridis')
+    im = ax.imshow(np.transpose(Z), cmap='viridis')
     plt.colorbar(im, orientation='horizontal')
     xh, yh = get_headers_from_data(X, Y, Z, interpolate)
+
+    yh = np.flip(yh)
+
+    # aux = yh
+    # yh = xh
+    # xh = aux
 
     ax.set_xticks(np.arange(len(xh)))
     ax.set_yticks(np.arange(len(yh)))
@@ -146,8 +178,9 @@ def plot_cmap(X, Y, Z, interpolate):
 
     save_plot(plt, output_img_cmap)
 
-    plt.show()
+    # plt.show()
 
+    return plt
     # fig, ax = plt.subplots()
     # im = ax.imshow(Z)
     #
@@ -182,8 +215,15 @@ def get_headers_from_data(X, Y, Z, interpolate):
 
 
 print(get_headers_from_data(X, Y, Z, interpolate))
-# plot_cmap(X, Y, Z, interpolate)
 
-plot3d(X, Y, Z, interpolate)
+
+f = plot_cmap(X, Y, Z, interpolate)
+# g = plot_cmap(X, Y, Z, interpolate)
+
+# f = plot3d(X, Y, Z, interpolate)
+g = plot3d(X, Y, Z, interpolate)
+
+f.show()
+g.show()
 
 
