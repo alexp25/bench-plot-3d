@@ -1,0 +1,73 @@
+{
+    "StatusMessage": "ok",
+    "Data": {
+        "squares": [
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 1,
+                        "delaySize": 100
+                    },
+                    "TimeResult": 1
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 1,
+                        "delaySize": 200
+                    },
+                    "TimeResult": 2
+                }
+            ],
+			[
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 2,
+                        "delaySize": 100
+                    },
+                    "TimeResult": 3
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 2,
+                        "delaySize": 200
+                    },
+                    "TimeResult": 4
+                }
+            ],
+			[
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 3,
+                        "delaySize": 100
+                    },
+                    "TimeResult": 5
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "clientSize": 3,
+                        "delaySize": 200
+                    },
+                    "TimeResult": 6
+                }
+            ]
+		],
+        "settings": {
+            "cycles": 10,
+            "MaxClients": 10,
+            "MinClients": 1,
+            "ClientStep": 1,
+            "MaxDelay": 1000,
+            "MinDelay": 100,
+            "DelayStep": 100
+        },
+        "Cycles": 10,
+        "X_Dim": 10,
+        "Y_Dim": 10
+    }
+}
