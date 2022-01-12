@@ -9,15 +9,27 @@ import json
 mode = "test"
 mode = "mp"
 # mode = "opencv"
-folder_index = 1
+folder_index = 3
 headers = None
 interpolate = False
 save_plot_flag = True
 result_scale_seconds = False
 
+client_col = "ClientSize"
+delay_col = "DelaySize"
+
+client_label = "number of clients"
+delay_label = "request delay (ms)"
+
+# client_col = "GroupSize"
+# delay_col = "DelaySize"
+
+# client_label = "number of groups"
+# delay_label = "request delay (ms)"
+
 if mode == "mp":
     folder = "./results/mp/" + str(folder_index)
-    file = "bench_mp_results.txt"
+    file = "bench_mp_results.json"
     output_img_3d = folder + "/" + "bench_mp_3d.png"
     output_img_cmap = folder + "/" + "bench_mp_cmap.png"
     result_scale_seconds = True
@@ -82,8 +94,8 @@ def load_data_3d(data, interpolate):
 
     for (i, col) in enumerate(data):
         for (j, row) in enumerate(col):
-            n_clients = row['settings']['clientSize']
-            delay = row['settings']['delaySize']
+            n_clients = row['settings'][client_col]
+            delay = row['settings'][delay_col]
             result = row['TimeResult']
             x_all[i][j] = n_clients
             y_all[i][j] = delay
@@ -125,8 +137,8 @@ def plot3d(X, Y, Z, interpolate):
     # ax.set_zlim(-1.01, 1.01)
     fig.colorbar(surf, shrink=0.5, aspect=5)
 
-    ax.set_ylabel('request delay (ms)')
-    ax.set_xlabel('number of clients')
+    ax.set_ylabel(delay_label)
+    ax.set_xlabel(client_label)
     if result_scale_seconds:
         ax.set_zlabel('response time (s)')
     else:
@@ -165,7 +177,7 @@ def plot_cmap(X, Y, Z, interpolate):
     plt.colorbar(im, orientation='horizontal')
     xh, yh = get_headers_from_data(X, Y, Z, interpolate)
 
-    yh = np.flip(yh)
+    # yh = np.flip(yh)
 
     # aux = yh
     # yh = xh
