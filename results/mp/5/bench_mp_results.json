@@ -6,92 +6,828 @@
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 1000,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 8742.93810008217
+                    "TimeResult": 843.0504937182538
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 900,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 11322.981468882872
+                    "TimeResult": 595.227224436508
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 800,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 9082.815377739287
+                    "TimeResult": 528.3021444898989
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 700,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 22352.68410842444
+                    "TimeResult": 355.5714754747475
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 600,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 16950.844029666667
+                    "TimeResult": 428.0886132886003
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 500,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 20946.27429178571
+                    "TimeResult": 312.61971415151515
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 400,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 22686.010533180954
+                    "TimeResult": 372.4491483347764
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 300,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 26852.499687976175
+                    "TimeResult": 236.7060783961039
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 200,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 22552.493142529773
+                    "TimeResult": 177.4397221767677
                 },
                 {
                     "settings": {
                         "Cycles": 10,
-                        "ClientSize": 100,
+                        "ClientSize": 10,
                         "DelaySize": 100,
-                        "GroupSize": 5
+                        "GroupSize": 10
                     },
-                    "TimeResult": 24511.03640980714
+                    "TimeResult": 654.927634857143
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 985.6465606679292
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 837.4485856911975
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 832.874079504329
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 763.8380012171717
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 584.7250957685787
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 540.9543177290765
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 415.0521558005051
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 326.43217509398494
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 251.67790946428576
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 20,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 744.0267774999999
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1047.3792500109428
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 985.8757464791967
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 951.4018926984128
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 744.489537372054
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 658.8710483998316
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 529.2169258326119
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1386.8967602526452
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 369.8979346026936
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 517.5592215925925
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 30,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4130.596309333332
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1075.1035180587119
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 954.1927505102303
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 865.0205837518037
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 748.9458806550326
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1935.859438208153
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 546.3131729307358
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 590.5745585000903
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1010.1752016547622
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2330.033877633928
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 40,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 3535.390579032738
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1176.184052459091
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2063.7812538949497
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1068.6177038808082
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1274.0750059476188
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 718.3447177499999
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1570.961230192064
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 965.3702860000002
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2684.749980892857
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1574.4285007976187
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 50,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4146.705427247328
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1623.076751001541
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1648.8296584345235
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1476.8412618412697
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1329.7898702857142
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2175.2756705052907
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1868.1917014186508
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 3817.901448222222
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2390.664149753307
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4107.648374523808
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 60,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4530.716465
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2332.49296605839
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1194.8060507846324
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 3832.725098293651
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2049.2983447619044
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 3271.3445412840133
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4176.157305013605
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 7324.884554285716
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4797.854535619048
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 5951.085419333332
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 70,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 6585.8307545000025
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2101.8543479930554
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 1909.017981649306
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 3670.949809975199
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4926.230524285714
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4575.015752053572
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4898.75565154514
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 6586.880276167163
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 5497.376973623511
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 10996.901264047621
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 80,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 10338.63196639881
+                }
+            ],
+            [
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 1000,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2199.771780444445
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 900,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 2262.8709674099323
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 800,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 4490.895772923282
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 700,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 7249.409437810846
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 600,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 5350.970243835977
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 500,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 8396.16786422222
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 400,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 6307.403452519842
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 300,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 8074.748845687828
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 200,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 9005.051972142857
+                },
+                {
+                    "settings": {
+                        "Cycles": 10,
+                        "ClientSize": 90,
+                        "DelaySize": 100,
+                        "GroupSize": 10
+                    },
+                    "TimeResult": 8903.993594708994
                 }
             ],
             [
@@ -102,7 +838,7 @@
                         "DelaySize": 1000,
                         "GroupSize": 10
                     },
-                    "TimeResult": 15791.098708041662
+                    "TimeResult": 6926.300229303571
                 },
                 {
                     "settings": {
@@ -111,7 +847,7 @@
                         "DelaySize": 900,
                         "GroupSize": 10
                     },
-                    "TimeResult": 15948.09797395833
+                    "TimeResult": 3608.55693656746
                 },
                 {
                     "settings": {
@@ -120,7 +856,7 @@
                         "DelaySize": 800,
                         "GroupSize": 10
                     },
-                    "TimeResult": 17354.27531513948
+                    "TimeResult": 7109.478877499998
                 },
                 {
                     "settings": {
@@ -129,7 +865,7 @@
                         "DelaySize": 700,
                         "GroupSize": 10
                     },
-                    "TimeResult": 17503.555947294364
+                    "TimeResult": 7087.576566766669
                 },
                 {
                     "settings": {
@@ -138,7 +874,7 @@
                         "DelaySize": 600,
                         "GroupSize": 10
                     },
-                    "TimeResult": 22110.881124011907
+                    "TimeResult": 6907.618439464485
                 },
                 {
                     "settings": {
@@ -147,7 +883,7 @@
                         "DelaySize": 500,
                         "GroupSize": 10
                     },
-                    "TimeResult": 19252.189706633
+                    "TimeResult": 8452.74845804762
                 },
                 {
                     "settings": {
@@ -156,7 +892,7 @@
                         "DelaySize": 400,
                         "GroupSize": 10
                     },
-                    "TimeResult": 20866.710503761915
+                    "TimeResult": 10113.840688961902
                 },
                 {
                     "settings": {
@@ -165,7 +901,7 @@
                         "DelaySize": 300,
                         "GroupSize": 10
                     },
-                    "TimeResult": 24522.104450982137
+                    "TimeResult": 9229.733413285716
                 },
                 {
                     "settings": {
@@ -174,7 +910,7 @@
                         "DelaySize": 200,
                         "GroupSize": 10
                     },
-                    "TimeResult": 27600.63069457142
+                    "TimeResult": 12865.412040863097
                 },
                 {
                     "settings": {
@@ -183,760 +919,24 @@
                         "DelaySize": 100,
                         "GroupSize": 10
                     },
-                    "TimeResult": 21001.470323372203
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 16019.89099453353
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 14955.35728747619
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 12744.656312665678
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 19654.231699200012
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 17848.616129214286
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 21226.12843878571
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 23185.204492666664
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 20274.490016023814
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 23457.476807416184
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 15
-                    },
-                    "TimeResult": 24077.644129859083
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 9266.498262000001
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 15739.070856863875
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 14311.527812651846
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 17040.277426815774
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 19009.665958531757
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 10703.254231664261
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 20017.75326067262
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 21303.329949803567
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 15741.351836500005
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 20
-                    },
-                    "TimeResult": 25001.195914476182
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 12529.191323690477
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 13579.866456452384
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 13183.9431732381
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 17977.65179430953
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 16035.276209190479
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 17595.410184656088
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 21622.559992474493
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 23006.615960500007
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 21733.92408344643
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 25
-                    },
-                    "TimeResult": 22442.351044976174
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 13080.181160744973
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 15237.195900660709
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 18511.95382256855
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 17481.237956136905
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 19525.01157221428
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 20980.328285999767
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 22218.446635814285
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 14639.58159033334
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 22938.05522131926
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 30
-                    },
-                    "TimeResult": 24503.918494964288
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 14771.446704109516
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 17023.523320199998
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 17702.758920761913
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 16890.42370310245
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 19387.503249876198
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 20870.411434944675
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 20762.80452636484
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 21670.918039279637
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 23877.128573357142
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 35
-                    },
-                    "TimeResult": 23888.549879022372
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 16410.4840660594
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 6768.410302543652
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 16859.80160227381
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 16935.34015201419
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 18059.05780653572
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 20343.028190571436
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 20455.914702308808
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 19687.58614178207
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 23414.81582801787
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 40
-                    },
-                    "TimeResult": 24559.952963267857
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 14021.728424054989
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 14964.09284367857
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 15485.69143383334
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 18267.351580952385
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 18171.715973214275
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 17952.3926675
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 19593.075173536203
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 18427.95996245791
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 22438.338631261904
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 45
-                    },
-                    "TimeResult": 19551.63307051467
-                }
-            ],
-            [
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 1000,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 12299.879096042856
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 900,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 13053.488496142854
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 800,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 13421.659169624998
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 700,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 17592.763269606778
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 600,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 19465.519047642865
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 500,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 21301.590974649993
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 400,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 18466.967437133237
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 300,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 20100.372573119035
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 200,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 21480.650201354474
-                },
-                {
-                    "settings": {
-                        "Cycles": 10,
-                        "ClientSize": 100,
-                        "DelaySize": 100,
-                        "GroupSize": 50
-                    },
-                    "TimeResult": 24162.033683026693
+                    "TimeResult": 12210.29539167857
                 }
             ]
         ],
         "settings": {
             "Cycles": 10,
             "MaxClients": 100,
-            "MinClients": 100,
+            "MinClients": 10,
             "ClientStep": 10,
-            "GroupStep": 5,
-            "DelayNext": 10000,
+            "GroupStep": 1,
+            "DelayNext": 5000,
             "MaxDelay": 1000,
             "MinDelay": 100,
             "DelayStep": 100,
-            "MinGroups": 5,
-            "MaxGroups": 50,
-            "FixedGroups": [],
-            "Type": 2
+            "MinGroups": 10,
+            "MaxGroups": 10,
+            "FixedGroups": null,
+            "Type": 1
         },
         "Cycles": 10,
         "X_Dim": 10,

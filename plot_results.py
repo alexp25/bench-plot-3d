@@ -9,7 +9,7 @@ import json
 mode = "test"
 mode = "mp"
 # mode = "opencv"
-folder_index = 3
+folder_index = 6
 headers = None
 interpolate = False
 save_plot_flag = True
@@ -113,9 +113,10 @@ def load_data_3d(data, interpolate):
 
     if result_scale_seconds:
         z_all = z_all / 1000
-    # if interpolate:
-    #     X = get_interpolated_array(X)
-    #     Y = get_interpolated_array(Y)
+
+    if interpolate:
+        X = get_interpolated_array(X)
+        Y = get_interpolated_array(Y)
 
     X = x_all
     Y = y_all
